@@ -18,7 +18,7 @@ h1, h2, h3 {
 }
 
 .site-nav {
-    background: black;
+    background-color: black;
 }
 
 .site-nav ul {
@@ -116,7 +116,7 @@ h1 {
 
 .card img {
     width: 100%;
-    height: 100px;
+    height: 230px;
     object-fit: cover;
 }
 
