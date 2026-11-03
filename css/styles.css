@@ -98,3 +98,11 @@ h1 {
     text-transform: uppercase;
 }
 
+.section-head {
+    border-top: 1px solid white;
+    padding: 34px 0 24px;
+}
+
+.section-head p {
+    max-width: 64ch;
+}
