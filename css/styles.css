@@ -117,7 +117,7 @@ h1 {
 .card img {
     width: 50%;
     height: 230px;
-    object-fit: cover;
+    object-fit: scale-down;
 }
 
 .card h3 {
